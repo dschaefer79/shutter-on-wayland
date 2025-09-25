@@ -1,0 +1,711 @@
+Subroutine Pango::Layout::set_text redefined at /usr/share/perl5/Gtk3.pm line 2299.
+	require Gtk3.pm called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+Subroutine Pango::Layout::set_markup redefined at /usr/share/perl5/Gtk3.pm line 2305.
+	require Gtk3.pm called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-GObject-CRITICAL **: g_boxed_type_register_static: assertion 'g_type_from_name (name) == 0' failed at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-CRITICAL **: g_once_init_leave_pointer: assertion 'result != 0' failed at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-GObject-CRITICAL **: g_boxed_type_register_static: assertion 'g_type_from_name (name) == 0' failed at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-CRITICAL **: g_once_init_leave_pointer: assertion 'result != 0' failed at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-GObject-CRITICAL **: g_boxed_type_register_static: assertion 'g_type_from_name (name) == 0' failed at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+GLib-CRITICAL **: g_once_init_leave_pointer: assertion 'result != 0' failed at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 110.
+ at /usr/share/perl5/Gtk3.pm line 489.
+	Gtk3::import("Gtk3", "-init") called at /usr/bin/shutter line 72
+	Shutter::App::BEGIN() called at /usr/bin/shutter line 72
+	eval {...} called at /usr/bin/shutter line 72
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 2752.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 2753.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 2761.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 2762.
+Variable "$trans_check" will not stay shared at /usr/bin/shutter line 2772.
+Variable "$css_provider_alpha" will not stay shared at /usr/bin/shutter line 2773.
+Variable "$trans_custom" will not stay shared at /usr/bin/shutter line 2778.
+Variable "$trans_custom_btn" will not stay shared at /usr/bin/shutter line 2779.
+Variable "$trans_backg" will not stay shared at /usr/bin/shutter line 2785.
+Variable "$window" will not stay shared at /usr/bin/shutter line 2788.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 2793.
+Variable "$cursor_status_active" will not stay shared at /usr/bin/shutter line 2793.
+Variable "$delay_status" will not stay shared at /usr/bin/shutter line 2803.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 2803.
+Variable "$delay_vlabel" will not stay shared at /usr/bin/shutter line 2804.
+Variable "$d" will not stay shared at /usr/bin/shutter line 2804.
+Variable "$delay_status_vlabel" will not stay shared at /usr/bin/shutter line 2810.
+Variable "$menu_delay_vlabel" will not stay shared at /usr/bin/shutter line 2815.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 2815.
+Variable "$hide_time_vlabel" will not stay shared at /usr/bin/shutter line 2820.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 2820.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 2825.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 2826.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 2841.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 2842.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 2854.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 2855.
+Variable "$bordereffect_vlabel" will not stay shared at /usr/bin/shutter line 2863.
+Variable "$scale_label" will not stay shared at /usr/bin/shutter line 2870.
+Variable "$combobox_ns" will not stay shared at /usr/bin/shutter line 2894.
+Variable "$window" will not stay shared at /usr/bin/shutter line 2911.
+Variable "$hide_active" will not stay shared at /usr/bin/shutter line 2915.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 2919.
+Variable "$d" will not stay shared at /usr/bin/shutter line 2946.
+Variable "$notify_ptimeout_active" will not stay shared at /usr/bin/shutter line 2970.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 2972.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 3037.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 3039.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3065.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3067.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 3085.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3114.
+Variable "$close_at_close_active" will not stay shared at /usr/bin/shutter line 3129.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 3130.
+Variable "$window" will not stay shared at /usr/bin/shutter line 3132.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 3133.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3149.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 3164.
+Variable "$sas" will not stay shared at /usr/bin/shutter line 3168.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 3170.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 3171.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 3172.
+Variable "$app" will not stay shared at /usr/bin/shutter line 3175.
+Variable "$window" will not stay shared at /usr/bin/shutter line 3207.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3216.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3234.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 3254.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3266.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 3280.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 3305.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3336.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3370.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3394.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 3431.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3467.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3476.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 3486.
+Variable "$st" will not stay shared at /usr/bin/shutter line 3496.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3509.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3697.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 3697.
+Variable "$settings_dialog" will not stay shared at /usr/bin/shutter line 3705.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3721.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 3721.
+Variable "$sas" will not stay shared at /usr/bin/shutter line 3735.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 3737.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 3738.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 3739.
+Variable "$pagesetup" will not stay shared at /usr/bin/shutter line 3758.
+Variable "$window" will not stay shared at /usr/bin/shutter line 3758.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3780.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3822.
+Variable "$sas" will not stay shared at /usr/bin/shutter line 3835.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 3837.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 3838.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 3839.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3858.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3865.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 3867.
+Variable "$settings_xml" will not stay shared at /usr/bin/shutter line 3878.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 3879.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3886.
+Variable "$tray_legacy" will not stay shared at /usr/bin/shutter line 3898.
+Variable "$tray_libappindicator" will not stay shared at /usr/bin/shutter line 3905.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 3909.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 3928.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 3943.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3963.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 3969.
+Variable "$d" will not stay shared at /usr/bin/shutter line 3983.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 4008.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4041.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 4071.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4112.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 4159.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4159.
+Variable "@signal_connections" will not stay shared at /usr/bin/shutter line 4175.
+Variable "$app" will not stay shared at /usr/bin/shutter line 4176.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 4182.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4217.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 4217.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 4221.
+Variable "$window" will not stay shared at /usr/bin/shutter line 4271.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 4283.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4289.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4323.
+Variable "$css_provider_alpha" will not stay shared at /usr/bin/shutter line 4326.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 4413.
+Variable "%settings" will not stay shared at /usr/bin/shutter line 4500.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 4502.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 4506.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 4514.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 4515.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 4516.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 4517.
+Variable "$save_auto_active" will not stay shared at /usr/bin/shutter line 4521.
+Variable "$save_ask_active" will not stay shared at /usr/bin/shutter line 4522.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 4523.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 4524.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 4525.
+Variable "$no_autocopy_active" will not stay shared at /usr/bin/shutter line 4526.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 4527.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 4528.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 4531.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4535.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 4548.
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 4557.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 4558.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 4559.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 4560.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 4561.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 4562.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 4563.
+Variable "$bordereffect_cbtn" will not stay shared at /usr/bin/shutter line 4564.
+Variable "$zoom_active" will not stay shared at /usr/bin/shutter line 4568.
+Variable "$as_help_active" will not stay shared at /usr/bin/shutter line 4569.
+Variable "$asel_size3" will not stay shared at /usr/bin/shutter line 4570.
+Variable "$asel_size4" will not stay shared at /usr/bin/shutter line 4571.
+Variable "$asel_size1" will not stay shared at /usr/bin/shutter line 4572.
+Variable "$asel_size2" will not stay shared at /usr/bin/shutter line 4573.
+Variable "$border_active" will not stay shared at /usr/bin/shutter line 4574.
+Variable "$winresize_active" will not stay shared at /usr/bin/shutter line 4575.
+Variable "$winresize_w" will not stay shared at /usr/bin/shutter line 4576.
+Variable "$winresize_h" will not stay shared at /usr/bin/shutter line 4577.
+Variable "$autoshape_active" will not stay shared at /usr/bin/shutter line 4578.
+Variable "$visible_windows_active" will not stay shared at /usr/bin/shutter line 4579.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 4580.
+Variable "$menu_waround_active" will not stay shared at /usr/bin/shutter line 4581.
+Variable "$combobox_web_width" will not stay shared at /usr/bin/shutter line 4582.
+Variable "$trans_check" will not stay shared at /usr/bin/shutter line 4585.
+Variable "$trans_custom" will not stay shared at /usr/bin/shutter line 4586.
+Variable "$trans_custom_btn" will not stay shared at /usr/bin/shutter line 4587.
+Variable "$trans_backg" will not stay shared at /usr/bin/shutter line 4589.
+Variable "$session_asc" will not stay shared at /usr/bin/shutter line 4591.
+Variable "$session_asc_combo" will not stay shared at /usr/bin/shutter line 4592.
+Variable "$session_desc" will not stay shared at /usr/bin/shutter line 4593.
+Variable "$session_desc_combo" will not stay shared at /usr/bin/shutter line 4594.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 4597.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 4598.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 4599.
+Variable "$hide_active" will not stay shared at /usr/bin/shutter line 4600.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 4601.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 4602.
+Variable "$close_at_close_active" will not stay shared at /usr/bin/shutter line 4603.
+Variable "$notify_after_active" will not stay shared at /usr/bin/shutter line 4604.
+Variable "$notify_timeout_active" will not stay shared at /usr/bin/shutter line 4605.
+Variable "$notify_ptimeout_active" will not stay shared at /usr/bin/shutter line 4606.
+Variable "$combobox_ns" will not stay shared at /usr/bin/shutter line 4607.
+Variable "$ask_on_delete_active" will not stay shared at /usr/bin/shutter line 4608.
+Variable "$delete_on_close_active" will not stay shared at /usr/bin/shutter line 4609.
+Variable "$ask_on_fs_delete_active" will not stay shared at /usr/bin/shutter line 4610.
+Variable "$ftp_remote_entry" will not stay shared at /usr/bin/shutter line 4613.
+Variable "$ftp_mode_combo" will not stay shared at /usr/bin/shutter line 4614.
+Variable "$ftp_username_entry" will not stay shared at /usr/bin/shutter line 4615.
+Variable "$ftp_password_entry" will not stay shared at /usr/bin/shutter line 4616.
+Variable "$ftp_wurl_entry" will not stay shared at /usr/bin/shutter line 4617.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 4620.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 4645.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4645.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 4653.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 4679.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 4729.
+Variable "$int_jpeg" will not stay shared at /usr/bin/shutter line 4729.
+Variable "$int_png" will not stay shared at /usr/bin/shutter line 4731.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 4740.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 4742.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 4745.
+Variable "$save_auto_active" will not stay shared at /usr/bin/shutter line 4747.
+Variable "$save_ask_active" will not stay shared at /usr/bin/shutter line 4748.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 4749.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 4751.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 4752.
+Variable "$no_autocopy_active" will not stay shared at /usr/bin/shutter line 4753.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 4755.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 4756.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 4765.
+Variable "$st" will not stay shared at /usr/bin/shutter line 4768.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 4783.
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 4786.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 4788.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 4789.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 4791.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 4792.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 4794.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 4795.
+Variable "$bordereffect_cbtn" will not stay shared at /usr/bin/shutter line 4797.
+Variable "$zoom_active" will not stay shared at /usr/bin/shutter line 4801.
+Variable "$as_help_active" will not stay shared at /usr/bin/shutter line 4803.
+Variable "$asel_size3" will not stay shared at /usr/bin/shutter line 4805.
+Variable "$asel_size4" will not stay shared at /usr/bin/shutter line 4806.
+Variable "$asel_size1" will not stay shared at /usr/bin/shutter line 4807.
+Variable "$asel_size2" will not stay shared at /usr/bin/shutter line 4808.
+Variable "$border_active" will not stay shared at /usr/bin/shutter line 4810.
+Variable "$winresize_active" will not stay shared at /usr/bin/shutter line 4812.
+Variable "$winresize_w" will not stay shared at /usr/bin/shutter line 4813.
+Variable "$winresize_h" will not stay shared at /usr/bin/shutter line 4814.
+Variable "$autoshape_active" will not stay shared at /usr/bin/shutter line 4816.
+Variable "$visible_windows_active" will not stay shared at /usr/bin/shutter line 4817.
+Variable "$menu_waround_active" will not stay shared at /usr/bin/shutter line 4818.
+Variable "$menu_delay" will not stay shared at /usr/bin/shutter line 4819.
+Variable "$combobox_web_width" will not stay shared at /usr/bin/shutter line 4820.
+Variable "$trans_check" will not stay shared at /usr/bin/shutter line 4823.
+Variable "$trans_custom" will not stay shared at /usr/bin/shutter line 4824.
+Variable "$trans_custom_btn" will not stay shared at /usr/bin/shutter line 4826.
+Variable "$trans_backg" will not stay shared at /usr/bin/shutter line 4828.
+Variable "$session_asc" will not stay shared at /usr/bin/shutter line 4830.
+Variable "$session_asc_combo" will not stay shared at /usr/bin/shutter line 4831.
+Variable "$session_desc" will not stay shared at /usr/bin/shutter line 4832.
+Variable "$session_desc_combo" will not stay shared at /usr/bin/shutter line 4833.
+Variable "$fs_active" will not stay shared at /usr/bin/shutter line 4836.
+Variable "$fs_min_active" will not stay shared at /usr/bin/shutter line 4837.
+Variable "$fs_nonot_active" will not stay shared at /usr/bin/shutter line 4838.
+Variable "$hide_active" will not stay shared at /usr/bin/shutter line 4839.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 4840.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 4841.
+Variable "$close_at_close_active" will not stay shared at /usr/bin/shutter line 4842.
+Variable "$notify_after_active" will not stay shared at /usr/bin/shutter line 4843.
+Variable "$notify_timeout_active" will not stay shared at /usr/bin/shutter line 4844.
+Variable "$notify_ptimeout_active" will not stay shared at /usr/bin/shutter line 4845.
+Variable "$combobox_ns" will not stay shared at /usr/bin/shutter line 4846.
+Variable "$ask_on_delete_active" will not stay shared at /usr/bin/shutter line 4847.
+Variable "$delete_on_close_active" will not stay shared at /usr/bin/shutter line 4848.
+Variable "$ask_on_fs_delete_active" will not stay shared at /usr/bin/shutter line 4849.
+Variable "$ftp_remote_entry" will not stay shared at /usr/bin/shutter line 4858.
+Variable "$ftp_mode_combo" will not stay shared at /usr/bin/shutter line 4859.
+Variable "$ftp_username_entry" will not stay shared at /usr/bin/shutter line 4860.
+Variable "$ftp_password_entry" will not stay shared at /usr/bin/shutter line 4861.
+Variable "$ftp_wurl_entry" will not stay shared at /usr/bin/shutter line 4862.
+Variable "$accounts_tree" will not stay shared at /usr/bin/shutter line 4876.
+Variable "$accounts_model" will not stay shared at /usr/bin/shutter line 4878.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 4916.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 4932.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4932.
+Variable "$d" will not stay shared at /usr/bin/shutter line 4961.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5017.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5017.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 5027.
+Variable "$status" will not stay shared at /usr/bin/shutter line 5101.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5113.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5130.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 5135.
+Variable "$status" will not stay shared at /usr/bin/shutter line 5189.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5193.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5209.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5224.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5235.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5236.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5246.
+Variable "$ask_on_delete_active" will not stay shared at /usr/bin/shutter line 5265.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5266.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5267.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5267.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 5282.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5287.
+Variable "$window" will not stay shared at /usr/bin/shutter line 5297.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 5297.
+Variable "$delete_on_close_active" will not stay shared at /usr/bin/shutter line 5395.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5400.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 5406.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5407.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5411.
+Variable "$window" will not stay shared at /usr/bin/shutter line 5421.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 5421.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 5498.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 5502.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5505.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5505.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 5515.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5544.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 5565.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5565.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 5578.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5579.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5603.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5630.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5652.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5668.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5675.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5704.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5719.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5726.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5747.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 5763.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5764.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5764.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5773.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5800.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5806.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5840.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5845.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 5876.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 5893.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 5910.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 5919.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 5925.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 5926.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 5937.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 5940.
+Variable "$d" will not stay shared at /usr/bin/shutter line 5940.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 5955.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 5971.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 6007.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 6015.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 6017.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 6022.
+Variable "$scale" will not stay shared at /usr/bin/shutter line 6045.
+Variable "$filename" will not stay shared at /usr/bin/shutter line 6054.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 6060.
+Variable "$save_no_active" will not stay shared at /usr/bin/shutter line 6061.
+Variable "$combobox_type" will not stay shared at /usr/bin/shutter line 6072.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 6075.
+Variable "$d" will not stay shared at /usr/bin/shutter line 6075.
+Variable "$delay" will not stay shared at /usr/bin/shutter line 6090.
+Variable "$cursor_active" will not stay shared at /usr/bin/shutter line 6106.
+Variable "$notify_timeout_active" will not stay shared at /usr/bin/shutter line 6118.
+Variable "$wnck_screen" will not stay shared at /usr/bin/shutter line 6119.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 6120.
+Variable "$border_active" will not stay shared at /usr/bin/shutter line 6151.
+Variable "$winresize_active" will not stay shared at /usr/bin/shutter line 6151.
+Variable "$winresize_w" will not stay shared at /usr/bin/shutter line 6151.
+Variable "$winresize_h" will not stay shared at /usr/bin/shutter line 6151.
+Variable "$hide_time" will not stay shared at /usr/bin/shutter line 6152.
+Variable "$autoshape_active" will not stay shared at /usr/bin/shutter line 6152.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 6162.
+Variable "$visible_windows_active" will not stay shared at /usr/bin/shutter line 6163.
+Variable "$menu_waround_active" will not stay shared at /usr/bin/shutter line 6163.
+Variable "$zoom_active" will not stay shared at /usr/bin/shutter line 6190.
+Variable "$as_help_active" will not stay shared at /usr/bin/shutter line 6190.
+Variable "$asel_size3" will not stay shared at /usr/bin/shutter line 6190.
+Variable "$asel_size4" will not stay shared at /usr/bin/shutter line 6191.
+Variable "$asel_size1" will not stay shared at /usr/bin/shutter line 6191.
+Variable "$asel_size2" will not stay shared at /usr/bin/shutter line 6191.
+Variable "$combobox_web_width" will not stay shared at /usr/bin/shutter line 6202.
+Variable "$st" will not stay shared at /usr/bin/shutter line 6210.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6350.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6363.
+Variable "$present_after_active" will not stay shared at /usr/bin/shutter line 6438.
+Variable "$bordereffect_active" will not stay shared at /usr/bin/shutter line 6543.
+Variable "$bordereffect" will not stay shared at /usr/bin/shutter line 6549.
+Variable "$bordereffect_cbtn" will not stay shared at /usr/bin/shutter line 6549.
+Variable "$save_ask_active" will not stay shared at /usr/bin/shutter line 6553.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 6579.
+Variable "$im_colors_active" will not stay shared at /usr/bin/shutter line 6591.
+Variable "$combobox_im_colors" will not stay shared at /usr/bin/shutter line 6593.
+Variable "$thumbnail_active" will not stay shared at /usr/bin/shutter line 6606.
+Variable "$thumbnail" will not stay shared at /usr/bin/shutter line 6609.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 6613.
+Variable "$no_autocopy_active" will not stay shared at /usr/bin/shutter line 6659.
+Variable "$image_autocopy_active" will not stay shared at /usr/bin/shutter line 6662.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 6663.
+Variable "$fname_autocopy_active" will not stay shared at /usr/bin/shutter line 6667.
+Variable "$progname_active" will not stay shared at /usr/bin/shutter line 6674.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 6675.
+Variable "$notify_after_active" will not stay shared at /usr/bin/shutter line 6689.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 6744.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6768.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6800.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6806.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6830.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6836.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6857.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6863.
+Variable "$pagesetup" will not stay shared at /usr/bin/shutter line 6876.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 6902.
+Variable "$window" will not stay shared at /usr/bin/shutter line 6919.
+Variable "$d" will not stay shared at /usr/bin/shutter line 6944.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6944.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 6960.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 6992.
+Variable "$window" will not stay shared at /usr/bin/shutter line 7003.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 7022.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7022.
+Variable "$status" will not stay shared at /usr/bin/shutter line 7106.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 7107.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7146.
+Variable "$window" will not stay shared at /usr/bin/shutter line 7154.
+Variable "$status" will not stay shared at /usr/bin/shutter line 7159.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7160.
+Variable "$hu" will not stay shared at /usr/bin/shutter line 7160.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 7176.
+Variable "$tray" will not stay shared at /usr/bin/shutter line 7177.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7197.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7218.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 7241.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7247.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7261.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 7271.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7277.
+Variable "$tray_menu" will not stay shared at /usr/bin/shutter line 7296.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 7305.
+Variable "$combobox_status_profiles" will not stay shared at /usr/bin/shutter line 7311.
+Variable "$combobox_status_profiles_label" will not stay shared at /usr/bin/shutter line 7314.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7320.
+Variable "$status" will not stay shared at /usr/bin/shutter line 7322.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7382.
+Variable "$lp_ne" will not stay shared at /usr/bin/shutter line 7441.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 7609.
+Variable "$ask_on_fs_delete_active" will not stay shared at /usr/bin/shutter line 7638.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 7645.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7646.
+Variable "$notebook" will not stay shared at /usr/bin/shutter line 7654.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 7700.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 7838.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 7854.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 7863.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 7904.
+Variable "$d" will not stay shared at /usr/bin/shutter line 7904.
+Variable "$combobox_settings_profiles" will not stay shared at /usr/bin/shutter line 7920.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 8035.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8036.
+Variable "$window" will not stay shared at /usr/bin/shutter line 8071.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8071.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 8099.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 8117.
+Variable "$window" will not stay shared at /usr/bin/shutter line 8218.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8218.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 8258.
+Variable "$progname" will not stay shared at /usr/bin/shutter line 8359.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 8367.
+Variable "$current_monitor_active" will not stay shared at /usr/bin/shutter line 8373.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8373.
+Variable "$settings_xml" will not stay shared at /usr/bin/shutter line 8478.
+Variable "$wnck_screen" will not stay shared at /usr/bin/shutter line 8511.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 8521.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8524.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8572.
+Variable "$x11_supported" will not stay shared at /usr/bin/shutter line 8573.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 8582.
+Variable "$is_hidden" will not stay shared at /usr/bin/shutter line 8698.
+Variable "%session_start_screen" will not stay shared at /usr/bin/shutter line 8779.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 8791.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 8797.
+Variable "$d" will not stay shared at /usr/bin/shutter line 8884.
+Variable "$settings_xml" will not stay shared at /usr/bin/shutter line 8941.
+Variable "$current_profile_indx" will not stay shared at /usr/bin/shutter line 8982.
+Variable "$accounts_model" will not stay shared at /usr/bin/shutter line 9000.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 9005.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 9025.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 9042.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9074.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 9099.
+Variable "$accounts_model" will not stay shared at /usr/bin/shutter line 9104.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9195.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9426.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9428.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 9432.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 9519.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9638.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9638.
+Variable "$lp_ne" will not stay shared at /usr/bin/shutter line 9654.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 9696.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 9697.
+Variable "$sm" will not stay shared at /usr/bin/shutter line 9721.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 9743.
+Variable "$d" will not stay shared at /usr/bin/shutter line 9746.
+Variable "$window" will not stay shared at /usr/bin/shutter line 9747.
+Variable "$saveDir_button" will not stay shared at /usr/bin/shutter line 9763.
+Variable "$lp_ne" will not stay shared at /usr/bin/shutter line 9779.
+Variable "$sp" will not stay shared at /usr/bin/shutter line 9935.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 9984.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10077.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10077.
+Variable "%plugins" will not stay shared at /usr/bin/shutter line 10097.
+Variable "$lp" will not stay shared at /usr/bin/shutter line 10183.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 10222.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10272.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10273.
+Variable "%accounts" will not stay shared at /usr/bin/shutter line 10283.
+Variable "$ftp_remote_entry" will not stay shared at /usr/bin/shutter line 10384.
+Variable "$ftp_mode_combo" will not stay shared at /usr/bin/shutter line 10398.
+Variable "$ftp_username_entry" will not stay shared at /usr/bin/shutter line 10410.
+Variable "$ftp_password_entry" will not stay shared at /usr/bin/shutter line 10424.
+Variable "$ftp_wurl_entry" will not stay shared at /usr/bin/shutter line 10436.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10562.
+Variable "$clipboard" will not stay shared at /usr/bin/shutter line 10663.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10864.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10884.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10899.
+Variable "$d" will not stay shared at /usr/bin/shutter line 10905.
+Variable "$sd" will not stay shared at /usr/bin/shutter line 10944.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10968.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10975.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10982.
+Variable "%session_screens" will not stay shared at /usr/bin/shutter line 10989.
+Variable "$window" will not stay shared at /usr/bin/shutter line 10997.
+Variable "$nav_toolbar" will not stay shared at /usr/bin/shutter line 11007.
+Name "Gtk3::Gdk::SELECTION_CLIPBOARD" used only once: possible typo at /usr/bin/shutter line 298.
+WARNING: gnome-web-photo is missing --> screenshots of websites will be disabled!
+
+ at /usr/bin/shutter line 9258.
+	Shutter::App::fct_init_depend() called at /usr/bin/shutter line 196
+Subroutine lookup redefined at /usr/share/shutter/resources/modules/Shutter/Draw/DrawingTool.pm line 28.
+	require Shutter/Draw/DrawingTool.pm called at /usr/bin/shutter line 229
+Variable "$self" will not stay shared at /usr/share/shutter/resources/modules/Shutter/Draw/DrawingTool.pm line 679.
+	require Shutter/Draw/DrawingTool.pm called at /usr/bin/shutter line 229
+Variable "$self" will not stay shared at /usr/share/shutter/resources/modules/Shutter/Screenshot/SelectorAdvanced.pm line 840.
+	require Shutter/Screenshot/SelectorAdvanced.pm called at /usr/bin/shutter line 234
+
+INFO: gathering system information...
+
+Shutter 0.99.4 Rev.1608
+Linux lenovo 6.17.0-4-generic #4-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep  8 16:09:17 UTC 2025 x86_64 GNU/Linux
+
+Ubuntu Questing Quokka (development branch) \n \l
+
+
+Glib 1.3293 
+Gtk3 0.038 
+
+Glib built for 2.82.1, running with 2.86.0
+
+
+(shutter:59386): Gtk-CRITICAL **: 21:57:18.183: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(shutter:59386): libayatana-appindicator-WARNING **: 21:57:18.227: libayatana-appindicator is deprecated. Please use libayatana-appindicator-glib in newly written code.
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/spbardistortion/spbardistortion
+Barrel Distortion - /usr/share/shutter/resources/system/plugins/perl/spbardistortion/spbardistortion
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/spnegate/spnegate
+Negate - /usr/share/shutter/resources/system/plugins/perl/spnegate/spnegate
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/sppolaroid/sppolaroid
+Polaroid - /usr/share/shutter/resources/system/plugins/perl/sppolaroid/sppolaroid
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/spresize/spresize
+Resize - /usr/share/shutter/resources/system/plugins/perl/spresize/spresize
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/spsepia/spsepia
+Sepia - /usr/share/shutter/resources/system/plugins/perl/spsepia/spsepia
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/spshadow/spshadow
+Hard Shadow - /usr/share/shutter/resources/system/plugins/perl/spshadow/spshadow
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/perl/spwatermark/spwatermark
+Watermark - /usr/share/shutter/resources/system/plugins/perl/spwatermark/spwatermark
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/spgrayscale/spgrayscale
+Grayscale - /usr/share/shutter/resources/system/plugins/shell/spgrayscale/spgrayscale
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/spoffset/spoffset
+Offset - /usr/share/shutter/resources/system/plugins/shell/spoffset/spoffset
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/spraise/spraise
+Raise Border - /usr/share/shutter/resources/system/plugins/shell/spraise/spraise
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/spsoftedges/spsoftedges
+Soft Edges - /usr/share/shutter/resources/system/plugins/shell/spsoftedges/spsoftedges
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/spsunk/spsunk
+Sunk Border - /usr/share/shutter/resources/system/plugins/shell/spsunk/spsunk
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/sptornedpaper/sptornedpaper
+Torned Paper - /usr/share/shutter/resources/system/plugins/shell/sptornedpaper/sptornedpaper
+
+INFO: new plugin information detected - /usr/share/shutter/resources/system/plugins/shell/sptrim/sptrim
+Autocrop - /usr/share/shutter/resources/system/plugins/shell/sptrim/sptrim
+
+INFO: new upload-plugin information detected - /usr/share/shutter/resources/system/upload_plugins/upload/Dropbox
+
+INFO: new upload-plugin information detected - /usr/share/shutter/resources/system/upload_plugins/upload/Gyazo
+
+INFO: new upload-plugin information detected - /usr/share/shutter/resources/system/upload_plugins/upload/Imgur
+
+INFO: new upload-plugin information detected - /usr/share/shutter/resources/system/upload_plugins/upload/ToileLibre
+
+INFO: new upload-plugin information detected - /usr/share/shutter/resources/system/upload_plugins/upload/vgyme
+
+type_changed was emitted by widget Gtk3::ComboBoxText=HASH(0x61cba05e0a70)
+
+WARNING: Could not load icon for Firefox: Can't locate object method "get_names" via package "Glib::IO::FileIcon" at /usr/bin/shutter line 4991.
+	eval {...} called at /usr/bin/shutter line 4990
+	Shutter::App::fct_get_program_model() called at /usr/bin/shutter line 1378
+	Shutter::App::STARTUP(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+
+
+progname_toggled was emitted by widget Gtk3::CheckButton=HASH(0x61cb9c5b4d10)
+
+im_colors_changed was emitted by widget Gtk3::ComboBoxText=HASH(0x61cba05e16b8)
+
+im_colors_toggled was emitted by widget Gtk3::CheckButton=HASH(0x61cba05d07f0)
+
+thumbnail_changed was emitted by widget Gtk3::HScale=HASH(0x61cba05e08f0)
+
+thumbnail_toggled was emitted by widget Gtk3::CheckButton=HASH(0x61cba05d0a00)
+
+bordereffect_toggled was emitted by widget Gtk3::CheckButton=HASH(0x61cba0862a48)
+
+bordereffect_changed was emitted by widget Gtk3::SpinButton=HASH(0x61cba05e11a8)
+
+menu_delay_changed was emitted by widget Gtk3::SpinButton=HASH(0x61cba0863330)
+
+transp_toggled was emitted by widget undef
+
+hide_time_changed was emitted by widget Gtk3::SpinButton=HASH(0x61cba0922f78)
+
+ns_changed was emitted by widget Gtk3::ComboBoxText=HASH(0x61cba0923110)
+
+(shutter:59386): GLib-GIO-WARNING **: 21:57:21.997: Your application does not implement g_application_activate() and has no handlers connected to the 'activate' signal.  It should do one of these.
+*** unhandled exception in callback:
+***   Can't call method "get_active" on an undefined value at /usr/bin/shutter line 4531.
+***   	Shutter::App::fct_save_settings(undef) called at /usr/bin/shutter line 3730
+***   	Shutter::App::fct_post_settings() called at /usr/bin/shutter line 2678
+***   	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+***   	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+***   	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+***  ignoring at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67.
+ at /usr/bin/shutter line 11111.
+
+select was emitted by widget Gtk3::ToolButton=HASH(0x61cba05dd568)
+GLib-CRITICAL **: Source ID 45 was not found when attempting to remove it at /usr/bin/shutter line 7109.
+ at /usr/bin/shutter line 7107.
+	Shutter::App::fct_show_status_message(1, "/home/dschaefer79/Pictures/select 25-09-25 21-57-25.png not f"...) called at /usr/bin/shutter line 3983
+	Shutter::App::fct_integrate_screenshot_in_notebook(Glib::Object::_Unregistered::GLocalFile=HASH(0x61cba05d0a48)) called at /usr/bin/shutter line 5112
+	Shutter::App::fct_open_files("file:///home/dschaefer79/Pictures/select 25-09-25 21-57-25.png") called at /usr/bin/shutter line 6011
+	Shutter::App::fct_gnome_screenshot(Gtk3::ToolButton=HASH(0x61cba05dd568), "select", undef, undef) called at /usr/bin/shutter line 3043
+	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+
+(shutter:59386): Gtk-CRITICAL **: 21:57:28.228: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(shutter:59386): Gtk-CRITICAL **: 21:57:38.229: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+full was emitted by widget Gtk3::MenuToolButton=HASH(0x61cba05dd418)
+GLib-CRITICAL **: Source ID 654 was not found when attempting to remove it at /usr/bin/shutter line 7109.
+ at /usr/bin/shutter line 7107.
+	Shutter::App::fct_show_status_message(1, "/home/dschaefer79/Pictures/full 25-09-25 21-57-38.png not found") called at /usr/bin/shutter line 3983
+	Shutter::App::fct_integrate_screenshot_in_notebook(Glib::Object::_Unregistered::GLocalFile=HASH(0x61cba05dd3a0)) called at /usr/bin/shutter line 5112
+	Shutter::App::fct_open_files("file:///home/dschaefer79/Pictures/full 25-09-25 21-57-38.png") called at /usr/bin/shutter line 6011
+	Shutter::App::fct_gnome_screenshot(Gtk3::MenuToolButton=HASH(0x61cba05dd418), "full", undef, undef) called at /usr/bin/shutter line 3043
+	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+
+window was emitted by widget Gtk3::MenuToolButton=HASH(0x61cba05d9158)
+
+(shutter:59386): Gtk-CRITICAL **: 21:57:48.233: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(shutter:59386): Gtk-CRITICAL **: 21:57:58.237: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(shutter:59386): Gtk-CRITICAL **: 21:58:08.247: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
