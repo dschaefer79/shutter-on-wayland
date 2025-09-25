@@ -3,7 +3,7 @@ Shutter on Wayland
 
 Based on 
 ---------------------------------------------------------
-Shutter v0.99.4
+shutter-on-wayland_0.99.4-6_all.deb - mvivarelli - shutter-on-wayland
 Copyright (C) 2008-2013 Mario Kemper <mario.kemper@gmail.com>
 Copyright (C) 2020-2021 Google LLC, contributed by Alexey Sokolov <sokolov@google.com>
 https://shutter-project.org/
@@ -19,17 +19,5 @@ sudo apt -f install ./shutter-on-wayland_0.99.4-6_all.deb
 
 Shutter on Wayland Motivation
 -----------------------------
-Hi guys, my name is Maurizio, I'm from Italy
-I'm an IT developer and I like the linux ecosystem
-my bare metal installation has been Ubuntu for more than 10 years
-... and I always loved "Shutter" !!!
-this thing that Shutter does not work on Wayland started to bother me "a lot"
-and so I decided to invest some time to resolve this question
-the base idea was to leverage gnome-screenshot command line utility 
-while maintaining the very same user interface and behaviour
-want to see the new "Shutter" in action ?
-check this:
-https://youtu.be/Jd-MLpj9o84
-or if you have Ubuntu 23.10 give it a try
-
-Maurizio
+Hi guys, My Name is Dominique, I want to improve the quality of the shutter wayland from 
+mvivarelli git repos, any help is much appreciated.
