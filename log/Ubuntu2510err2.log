@@ -1,0 +1,37 @@
+WARNING: Could not load icon for Firefox: Can't locate object method "get_names" via package "Glib::IO::FileIcon" at /usr/bin/shutter line 4991.
+	eval {...} called at /usr/bin/shutter line 4990
+	Shutter::App::fct_get_program_model() called at /usr/bin/shutter line 1378
+	Shutter::App::STARTUP(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+
+(shutter:59386): GLib-GIO-WARNING **: 21:57:21.997: Your application does not implement g_application_activate() and has no handlers connected to the 'activate' signal.  It should do one of these.
+*** unhandled exception in callback:
+***   Can't call method "get_active" on an undefined value at /usr/bin/shutter line 4531.
+***   	Shutter::App::fct_save_settings(undef) called at /usr/bin/shutter line 3730
+***   	Shutter::App::fct_post_settings() called at /usr/bin/shutter line 2678
+***   	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+***   	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+***   	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+***  ignoring at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67.
+ at /usr/bin/shutter line 11111.
+
+select was emitted by widget Gtk3::ToolButton=HASH(0x61cba05dd568)
+GLib-CRITICAL **: Source ID 45 was not found when attempting to remove it at /usr/bin/shutter line 7109.
+ at /usr/bin/shutter line 7107.
+	Shutter::App::fct_show_status_message(1, "/home/dschaefer79/Pictures/select 25-09-25 21-57-25.png not f"...) called at /usr/bin/shutter line 3983
+	Shutter::App::fct_integrate_screenshot_in_notebook(Glib::Object::_Unregistered::GLocalFile=HASH(0x61cba05d0a48)) called at /usr/bin/shutter line 5112
+	Shutter::App::fct_open_files("file:///home/dschaefer79/Pictures/select 25-09-25 21-57-25.png") called at /usr/bin/shutter line 6011
+	Shutter::App::fct_gnome_screenshot(Gtk3::ToolButton=HASH(0x61cba05dd568), "select", undef, undef) called at /usr/bin/shutter line 3043
+	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111   
+
+GLib-CRITICAL **: Source ID 654 was not found when attempting to remove it at /usr/bin/shutter line 7109.
+ at /usr/bin/shutter line 7107.
+	Shutter::App::fct_show_status_message(1, "/home/dschaefer79/Pictures/full 25-09-25 21-57-38.png not found") called at /usr/bin/shutter line 3983
+	Shutter::App::fct_integrate_screenshot_in_notebook(Glib::Object::_Unregistered::GLocalFile=HASH(0x61cba05dd3a0)) called at /usr/bin/shutter line 5112
+	Shutter::App::fct_open_files("file:///home/dschaefer79/Pictures/full 25-09-25 21-57-38.png") called at /usr/bin/shutter line 6011
+	Shutter::App::fct_gnome_screenshot(Gtk3::MenuToolButton=HASH(0x61cba05dd418), "full", undef, undef) called at /usr/bin/shutter line 3043
+	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
+	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
