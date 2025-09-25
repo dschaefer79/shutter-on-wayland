@@ -4528,7 +4528,12 @@ sub STARTUP {
 		$settings{'general'}->{'delay'}          = $delay->get_value();
 
 		#wrksp -> submenu
-		$settings{'general'}->{'current_monitor_active'} = $current_monitor_active->get_active;
+		#$settings{'general'}->{'current_monitor_active'} = $current_monitor_active->get_active;
+		if (defined $current_monitor_active) {
+	    $settings{'general'}->{'current_monitor_active'} = $current_monitor_active->get_active;
+		} else {
+    	$settings{'general'}->{'current_monitor_active'} = 0; # or some safe default
+		}
 
 		#determining timeout
 		if ($gnome_web_photo) {
