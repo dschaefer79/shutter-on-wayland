@@ -35,3 +35,7 @@ GLib-CRITICAL **: Source ID 654 was not found when attempting to remove it at /u
 	Shutter::App::__ANON__() called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
 	eval {...} called at /usr/lib/x86_64-linux-gnu/perl5/5.40/Glib/Object/Introspection.pm line 67
 	Glib::Object::Introspection::__ANON__(Shutter::App=HASH(0x61cba00e27f8)) called at /usr/bin/shutter line 11111
+
+
+Line 4531 Problem in bin/shutter
+$settings{'general'}->{'current_monitor_active'} = $current_monitor_active->get_active;
