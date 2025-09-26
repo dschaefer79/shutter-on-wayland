@@ -7,6 +7,7 @@ shutter-on-wayland_0.99.4-6_all.deb - mvivarelli - shutter-on-wayland
 Copyright (C) 2008-2013 Mario Kemper <mario.kemper@gmail.com>
 Copyright (C) 2020-2021 Google LLC, contributed by Alexey Sokolov <sokolov@google.com>
 https://shutter-project.org/
+License GPL3
 
 Installation available for Ubuntu 23.10
 -----------------------------------------------------------------
