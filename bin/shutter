@@ -55,6 +55,11 @@ BEGIN {
 		version  => '3.0',
 		package  => 'Gtk3::GdkX11',
 	);
+	Glib::Object::Introspection->setup(
+    	basename => 'GdkWayland',
+    	version  => '3.0',
+    	package  => 'Gtk3::GdkWayland',
+);
 }
 
 package Shutter::App;
