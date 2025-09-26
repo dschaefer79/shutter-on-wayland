@@ -51,14 +51,19 @@ BEGIN {
 		package  => 'Wnck',
 	);
 	Glib::Object::Introspection->setup(
+		basename => 'Gtk',
+		version  => '4.0',
+		package  => 'GdkWayland',
+	);
+	Glib::Object::Introspection->setup(
 		basename => 'GdkX11',
 		version  => '3.0',
 		package  => 'Gtk3::GdkX11',
 	);
 	Glib::Object::Introspection->setup(
     	basename => 'GdkWayland',
-    	version  => '3.0',
-    	package  => 'Gtk3::GdkWayland',
+    	version  => '4.0',
+    	package  => 'GdkWayland',
 );
 }
 
