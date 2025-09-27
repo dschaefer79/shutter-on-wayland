@@ -21,4 +21,5 @@ sudo apt -f install ./shutter-on-wayland_0.99.4-6_all.deb
 Shutter on Wayland Motivation
 -----------------------------
 Hi guys, My Name is Dominique, I want to improve the quality of the shutter wayland from 
-mvivarelli git repos, any help is much appreciated.
+mvivarelli git repos, any help is much appreciated. 
+The modification from William Repo are already in this repo too.
